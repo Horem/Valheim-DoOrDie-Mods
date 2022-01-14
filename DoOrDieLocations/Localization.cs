@@ -75,7 +75,7 @@ namespace DoOrDieBiomes
 
 			{"piece_lorestone_dod", "Lorestone"},
 
-			{"item_walnut_dod", "Walnuts"},
+			{"item_walnuts_dod", "Walnuts"},
             {"item_walnuts_description_dod", "Gatherd from a Walnut Tree in the Mistlands."},
             {"item_apple_dod", "Apples"},
             {"item_apple_description_dod", "Gatherd from an Apple Tree in the Mistlands."},
@@ -140,7 +140,7 @@ namespace DoOrDieBiomes
 			{ "location_rambore_dod", "Пещера Рам'Бора" },
 			{ "lore_rambore_dod", "Рам'Бор - Неизвестно" },
 			{ "piece_lorestone_dod", "Камень знаний" },
-			{"item_walnut_dod","Грецкие орехи"},
+			{"item_walnuts_dod","Грецкие орехи"},
 			{ "item_walnuts_description_dod", "Собраны с Ореха в Туманных Землях." },
 			{ "item_apple_dod", "Яблоки" },
 			{ "item_apple_description_dod", "Собраны с Яблони в Туманных землях." },

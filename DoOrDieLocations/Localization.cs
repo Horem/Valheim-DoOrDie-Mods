@@ -141,9 +141,9 @@ namespace DoOrDieBiomes
 			{ "lore_rambore_dod", "Рам'Бор - Неизвестно" },
 			{ "piece_lorestone_dod", "Камень знаний" },
 			{"item_walnut_dod","Грецкие орехи"},
-			{ "item_walnuts_description_dod", "Собранны с Ореха в Туманных Землях." },
+			{ "item_walnuts_description_dod", "Собраны с Ореха в Туманных Землях." },
 			{ "item_apple_dod", "Яблоки" },
-			{ "item_apple_description_dod", "Собранны с Яблони в Туманных землях." },
+			{ "item_apple_description_dod", "Собраны с Яблони в Туманных землях." },
 			{ "item_redberries_dod", "Вишни" },
 			{ "item_redberries_description_dod", "Собраны с Вишни в Туманных землях." }
 		};

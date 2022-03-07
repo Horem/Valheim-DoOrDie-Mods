@@ -50,6 +50,25 @@ namespace Wildlife
 			{"animal_giantsnail_dod", "Гигантская улитка"},
 
 			};
+		private static Dictionary<string, string> turkish = new Dictionary<string, string>() {
+
+			{"animal_sheep_dod", "Koyun"},
+			{"animal_goat_dod", "Keçi"},
+			{"animal_goose_dod", "Kaz"},
+			{"animal_penguin_dod", "Penguen"},
+			{"animal_salamander_dod", "Ateş Semenderi"},
+			{"animal_turtle_dod", "Kaplumbağa"},
+			{"animal_rat_dod", "Fare"},
+			{"animal_greenlizard_dod", "Yeşil Kertenkele"},
+			{"animal_brownlizard_dod", "Kahverengi Kertenkele"},
+			{"animal_spottedlizard_dod", "Benekli Kertenkele"},
+			{"animal_greenfrog_dod", "Yeşil Kurbağa"},
+			{"animal_blackfrog_dod", "Black Kurbağa"},
+			{"animal_spottedfrog_dod", "Benekli Kurbağa"},
+			{"animal_greyrabbit_dod", "Grey Tavşan"},
+			{"animal_brownrabbit_dod", "Kahverengi Tavşan"},
+			{"animal_giantsnail_dod", "Dev Salyangoz"},
+		};
 		private static Dictionary<string, string> german = new Dictionary<string, string>() {
 
 			{"animal_sheep_dod", "Schaf"},
@@ -81,6 +100,10 @@ namespace Wildlife
 			else if (lang == "English")
 			{
 				t = english;
+			}
+			else if (lang == "Turkish")
+			{
+				t = turkish;
 			}
 			else
 			{
